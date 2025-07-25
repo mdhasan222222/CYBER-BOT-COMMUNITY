@@ -3,7 +3,7 @@
 	"PreKey": "",
 	"AutoUpdate": true,
 	"MainColor": "#9900FF",
-	"MainName": "[ GIRL-FRIEND ]",
+	"MainName": "[ GIRLS-BOT ]",
 	"Uptime": false,
 	"Config": "default",
 	"DevMode": false,
@@ -24,7 +24,7 @@
 	},
 	"HTML": {
 		"HTML": true,
-		"UserName": "Cute girl",
+		"UserName": "Cutel",
 		"MusicLink": "https://drive.google.com/uc?id=1zlAALlxk1TnO7jXtEP_O6yvemtzA2ukA&export=download"
 	},
 	"AntiGetInfo": {
