@@ -2,7 +2,7 @@
   "name": "HASANER BOT",
   "version": "10.1.1",
   "description": "made by CID ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_☢️",
-  "main": "Cyber.js",
+  "main": "Hasan.js",
   "engines": {
       "node": "20.x",
       "npm": "10.0.0"
@@ -19,11 +19,11 @@
   "keywords": [
       "bot",
       "facebook",
-      "ullashproject",
+      "hasanproject",
       "messenger",
       "javasvript",
-      "ullash",
-      "cyberullash",
+      "hasan",
+      "cyberhasan",
       "cyberRajib ",
       "islamick chat bot"
   ],
