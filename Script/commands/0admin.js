@@ -153,7 +153,7 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
                 const index = config.ADMINBOT.findIndex(item => item.toString() == content[0]);
                 ADMINBOT.splice(index, 1);
                 config.ADMINBOT.splice(index, 1);
-                const name = (await Users.getData(content[0])).name
+                const name = (awai?t Users.getData(content[0])).name
                 writeFileSync(configPath, JSON.stringify(config, null, 4), 'utf8');
                 return api.sendMessage(getText("removedAdmin", 1, `${content[0]} - ${name}`), threadID, messageID);
             }
